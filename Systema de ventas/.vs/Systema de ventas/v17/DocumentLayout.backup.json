@@ -1,0 +1,302 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DevVictor\\source\\repos\\Proyectos_asp\\Systema de ventas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FB4147-DAE3-4CC5-A948-050AA3400FB7}|Systema de ventas\\Systema de ventas.csproj|c:\\users\\devvictor\\source\\repos\\proyectos_asp\\systema de ventas\\systema de ventas\\controllers\\controller_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FB4147-DAE3-4CC5-A948-050AA3400FB7}|Systema de ventas\\Systema de ventas.csproj|solutionrelative:systema de ventas\\controllers\\controller_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FB4147-DAE3-4CC5-A948-050AA3400FB7}|Systema de ventas\\Systema de ventas.csproj|c:\\users\\devvictor\\source\\repos\\proyectos_asp\\systema de ventas\\systema de ventas\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FB4147-DAE3-4CC5-A948-050AA3400FB7}|Systema de ventas\\Systema de ventas.csproj|solutionrelative:systema de ventas\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FB4147-DAE3-4CC5-A948-050AA3400FB7}|Systema de ventas\\Systema de ventas.csproj|c:\\users\\devvictor\\source\\repos\\proyectos_asp\\systema de ventas\\systema de ventas\\views\\controller_cliente\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2FB4147-DAE3-4CC5-A948-050AA3400FB7}|Systema de ventas\\Systema de ventas.csproj|solutionrelative:systema de ventas\\views\\controller_cliente\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FB4147-DAE3-4CC5-A948-050AA3400FB7}|Systema de ventas\\Systema de ventas.csproj|c:\\users\\devvictor\\source\\repos\\proyectos_asp\\systema de ventas\\systema de ventas\\views\\controller_cliente\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2FB4147-DAE3-4CC5-A948-050AA3400FB7}|Systema de ventas\\Systema de ventas.csproj|solutionrelative:systema de ventas\\views\\controller_cliente\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FB4147-DAE3-4CC5-A948-050AA3400FB7}|Systema de ventas\\Systema de ventas.csproj|c:\\users\\devvictor\\source\\repos\\proyectos_asp\\systema de ventas\\systema de ventas\\views\\controller_cliente\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2FB4147-DAE3-4CC5-A948-050AA3400FB7}|Systema de ventas\\Systema de ventas.csproj|solutionrelative:systema de ventas\\views\\controller_cliente\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FB4147-DAE3-4CC5-A948-050AA3400FB7}|Systema de ventas\\Systema de ventas.csproj|c:\\users\\devvictor\\source\\repos\\proyectos_asp\\systema de ventas\\systema de ventas\\views\\controller_cliente\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2FB4147-DAE3-4CC5-A948-050AA3400FB7}|Systema de ventas\\Systema de ventas.csproj|solutionrelative:systema de ventas\\views\\controller_cliente\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FB4147-DAE3-4CC5-A948-050AA3400FB7}|Systema de ventas\\Systema de ventas.csproj|c:\\users\\devvictor\\source\\repos\\proyectos_asp\\systema de ventas\\systema de ventas\\views\\controller_cliente\\guardar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2FB4147-DAE3-4CC5-A948-050AA3400FB7}|Systema de ventas\\Systema de ventas.csproj|solutionrelative:systema de ventas\\views\\controller_cliente\\guardar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FB4147-DAE3-4CC5-A948-050AA3400FB7}|Systema de ventas\\Systema de ventas.csproj|c:\\users\\devvictor\\source\\repos\\proyectos_asp\\systema de ventas\\systema de ventas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2FB4147-DAE3-4CC5-A948-050AA3400FB7}|Systema de ventas\\Systema de ventas.csproj|solutionrelative:systema de ventas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FB4147-DAE3-4CC5-A948-050AA3400FB7}|Systema de ventas\\Systema de ventas.csproj|c:\\users\\devvictor\\source\\repos\\proyectos_asp\\systema de ventas\\systema de ventas\\datos\\crud_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FB4147-DAE3-4CC5-A948-050AA3400FB7}|Systema de ventas\\Systema de ventas.csproj|solutionrelative:systema de ventas\\datos\\crud_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FB4147-DAE3-4CC5-A948-050AA3400FB7}|Systema de ventas\\Systema de ventas.csproj|c:\\users\\devvictor\\source\\repos\\proyectos_asp\\systema de ventas\\systema de ventas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B2FB4147-DAE3-4CC5-A948-050AA3400FB7}|Systema de ventas\\Systema de ventas.csproj|solutionrelative:systema de ventas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FB4147-DAE3-4CC5-A948-050AA3400FB7}|Systema de ventas\\Systema de ventas.csproj|c:\\users\\devvictor\\source\\repos\\proyectos_asp\\systema de ventas\\systema de ventas\\models\\modelo_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FB4147-DAE3-4CC5-A948-050AA3400FB7}|Systema de ventas\\Systema de ventas.csproj|solutionrelative:systema de ventas\\models\\modelo_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FB4147-DAE3-4CC5-A948-050AA3400FB7}|Systema de ventas\\Systema de ventas.csproj|c:\\users\\devvictor\\source\\repos\\proyectos_asp\\systema de ventas\\systema de ventas\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FB4147-DAE3-4CC5-A948-050AA3400FB7}|Systema de ventas\\Systema de ventas.csproj|solutionrelative:systema de ventas\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FB4147-DAE3-4CC5-A948-050AA3400FB7}|Systema de ventas\\Systema de ventas.csproj|c:\\users\\devvictor\\source\\repos\\proyectos_asp\\systema de ventas\\systema de ventas\\db_scpcomputershow\\tabla_scpcomputer_show.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{B2FB4147-DAE3-4CC5-A948-050AA3400FB7}|Systema de ventas\\Systema de ventas.csproj|solutionrelative:systema de ventas\\db_scpcomputershow\\tabla_scpcomputer_show.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FB4147-DAE3-4CC5-A948-050AA3400FB7}|Systema de ventas\\Systema de ventas.csproj|c:\\users\\devvictor\\source\\repos\\proyectos_asp\\systema de ventas\\systema de ventas\\db_scpcomputershow\\procedure_tb_clientes.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{B2FB4147-DAE3-4CC5-A948-050AA3400FB7}|Systema de ventas\\Systema de ventas.csproj|solutionrelative:systema de ventas\\db_scpcomputershow\\procedure_tb_clientes.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FB4147-DAE3-4CC5-A948-050AA3400FB7}|Systema de ventas\\Systema de ventas.csproj|c:\\users\\devvictor\\source\\repos\\proyectos_asp\\systema de ventas\\systema de ventas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FB4147-DAE3-4CC5-A948-050AA3400FB7}|Systema de ventas\\Systema de ventas.csproj|solutionrelative:systema de ventas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FB4147-DAE3-4CC5-A948-050AA3400FB7}|Systema de ventas\\Systema de ventas.csproj|c:\\users\\devvictor\\source\\repos\\proyectos_asp\\systema de ventas\\systema de ventas\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FB4147-DAE3-4CC5-A948-050AA3400FB7}|Systema de ventas\\Systema de ventas.csproj|solutionrelative:systema de ventas\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FB4147-DAE3-4CC5-A948-050AA3400FB7}|Systema de ventas\\Systema de ventas.csproj|c:\\users\\devvictor\\source\\repos\\proyectos_asp\\systema de ventas\\systema de ventas\\db_scpcomputershow\\procedure_tb_clientes.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{B2FB4147-DAE3-4CC5-A948-050AA3400FB7}|Systema de ventas\\Systema de ventas.csproj|solutionrelative:systema de ventas\\db_scpcomputershow\\procedure_tb_clientes.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FB4147-DAE3-4CC5-A948-050AA3400FB7}|Systema de ventas\\Systema de ventas.csproj|c:\\users\\devvictor\\source\\repos\\proyectos_asp\\systema de ventas\\systema de ventas\\db_scpcomputershow\\tabla_scpcomputer_show.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{B2FB4147-DAE3-4CC5-A948-050AA3400FB7}|Systema de ventas\\Systema de ventas.csproj|solutionrelative:systema de ventas\\db_scpcomputershow\\tabla_scpcomputer_show.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DevVictor\\source\\repos\\Proyectos_asp\\Systema de ventas\\Systema de ventas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Systema de ventas\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DevVictor\\source\\repos\\Proyectos_asp\\Systema de ventas\\Systema de ventas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Systema de ventas\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T03:58:46.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Detalle.cshtml",
+              "DocumentMoniker": "C:\\Users\\DevVictor\\source\\repos\\Proyectos_asp\\Systema de ventas\\Systema de ventas\\Views\\Controller_Cliente\\Detalle.cshtml",
+              "RelativeDocumentMoniker": "Systema de ventas\\Views\\Controller_Cliente\\Detalle.cshtml",
+              "ToolTip": "C:\\Users\\DevVictor\\source\\repos\\Proyectos_asp\\Systema de ventas\\Systema de ventas\\Views\\Controller_Cliente\\Detalle.cshtml",
+              "RelativeToolTip": "Systema de ventas\\Views\\Controller_Cliente\\Detalle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T03:49:32.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "tabla_scpcomputer_show.sql ",
+              "DocumentMoniker": "C:\\Users\\DevVictor\\source\\repos\\Proyectos_asp\\Systema de ventas\\Systema de ventas\\db_SCPComputershow\\tabla_scpcomputer_show.sql",
+              "RelativeDocumentMoniker": "Systema de ventas\\db_SCPComputershow\\tabla_scpcomputer_show.sql",
+              "ToolTip": "C:\\Users\\DevVictor\\source\\repos\\Proyectos_asp\\Systema de ventas\\Systema de ventas\\db_SCPComputershow\\tabla_scpcomputer_show.sql",
+              "RelativeToolTip": "Systema de ventas\\db_SCPComputershow\\tabla_scpcomputer_show.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-24T03:22:32.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Listar.cshtml",
+              "DocumentMoniker": "C:\\Users\\DevVictor\\source\\repos\\Proyectos_asp\\Systema de ventas\\Systema de ventas\\Views\\Controller_Cliente\\Listar.cshtml",
+              "RelativeDocumentMoniker": "Systema de ventas\\Views\\Controller_Cliente\\Listar.cshtml",
+              "ToolTip": "C:\\Users\\DevVictor\\source\\repos\\Proyectos_asp\\Systema de ventas\\Systema de ventas\\Views\\Controller_Cliente\\Listar.cshtml",
+              "RelativeToolTip": "Systema de ventas\\Views\\Controller_Cliente\\Listar.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAcwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T03:15:56.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Eliminar.cshtml",
+              "DocumentMoniker": "C:\\Users\\DevVictor\\source\\repos\\Proyectos_asp\\Systema de ventas\\Systema de ventas\\Views\\Controller_Cliente\\Eliminar.cshtml",
+              "RelativeDocumentMoniker": "Systema de ventas\\Views\\Controller_Cliente\\Eliminar.cshtml",
+              "ToolTip": "C:\\Users\\DevVictor\\source\\repos\\Proyectos_asp\\Systema de ventas\\Systema de ventas\\Views\\Controller_Cliente\\Eliminar.cshtml",
+              "RelativeToolTip": "Systema de ventas\\Views\\Controller_Cliente\\Eliminar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T03:17:21.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\DevVictor\\source\\repos\\Proyectos_asp\\Systema de ventas\\Systema de ventas\\Views\\Controller_Cliente\\Editar.cshtml",
+              "RelativeDocumentMoniker": "Systema de ventas\\Views\\Controller_Cliente\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\DevVictor\\source\\repos\\Proyectos_asp\\Systema de ventas\\Systema de ventas\\Views\\Controller_Cliente\\Editar.cshtml",
+              "RelativeToolTip": "Systema de ventas\\Views\\Controller_Cliente\\Editar.cshtml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAcwFIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T03:16:57.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Guardar.cshtml",
+              "DocumentMoniker": "C:\\Users\\DevVictor\\source\\repos\\Proyectos_asp\\Systema de ventas\\Systema de ventas\\Views\\Controller_Cliente\\Guardar.cshtml",
+              "RelativeDocumentMoniker": "Systema de ventas\\Views\\Controller_Cliente\\Guardar.cshtml",
+              "ToolTip": "C:\\Users\\DevVictor\\source\\repos\\Proyectos_asp\\Systema de ventas\\Systema de ventas\\Views\\Controller_Cliente\\Guardar.cshtml",
+              "RelativeToolTip": "Systema de ventas\\Views\\Controller_Cliente\\Guardar.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T03:16:37.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Controller_Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\DevVictor\\source\\repos\\Proyectos_asp\\Systema de ventas\\Systema de ventas\\Controllers\\Controller_Cliente.cs",
+              "RelativeDocumentMoniker": "Systema de ventas\\Controllers\\Controller_Cliente.cs",
+              "ToolTip": "C:\\Users\\DevVictor\\source\\repos\\Proyectos_asp\\Systema de ventas\\Systema de ventas\\Controllers\\Controller_Cliente.cs",
+              "RelativeToolTip": "Systema de ventas\\Controllers\\Controller_Cliente.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAADwv1cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:58:36.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CRUD_cliente.cs",
+              "DocumentMoniker": "C:\\Users\\DevVictor\\source\\repos\\Proyectos_asp\\Systema de ventas\\Systema de ventas\\Datos\\CRUD_cliente.cs",
+              "RelativeDocumentMoniker": "Systema de ventas\\Datos\\CRUD_cliente.cs",
+              "ToolTip": "C:\\Users\\DevVictor\\source\\repos\\Proyectos_asp\\Systema de ventas\\Systema de ventas\\Datos\\CRUD_cliente.cs",
+              "RelativeToolTip": "Systema de ventas\\Datos\\CRUD_cliente.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowEYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:32:06.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DevVictor\\source\\repos\\Proyectos_asp\\Systema de ventas\\Systema de ventas\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Systema de ventas\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DevVictor\\source\\repos\\Proyectos_asp\\Systema de ventas\\Systema de ventas\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Systema de ventas\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:57:47.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DevVictor\\source\\repos\\Proyectos_asp\\Systema de ventas\\Systema de ventas\\appsettings.json",
+              "RelativeDocumentMoniker": "Systema de ventas\\appsettings.json",
+              "ToolTip": "C:\\Users\\DevVictor\\source\\repos\\Proyectos_asp\\Systema de ventas\\Systema de ventas\\appsettings.json",
+              "RelativeToolTip": "Systema de ventas\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T03:26:16.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\DevVictor\\source\\repos\\Proyectos_asp\\Systema de ventas\\Systema de ventas\\Datos\\Conexion.cs",
+              "RelativeDocumentMoniker": "Systema de ventas\\Datos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\DevVictor\\source\\repos\\Proyectos_asp\\Systema de ventas\\Systema de ventas\\Datos\\Conexion.cs",
+              "RelativeToolTip": "Systema de ventas\\Datos\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:44:36.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "procedure_tb_Clientes.sql ",
+              "DocumentMoniker": "C:\\Users\\DevVictor\\source\\repos\\Proyectos_asp\\Systema de ventas\\Systema de ventas\\db_SCPComputershow\\procedure_tb_Clientes.sql",
+              "RelativeDocumentMoniker": "Systema de ventas\\db_SCPComputershow\\procedure_tb_Clientes.sql",
+              "ToolTip": "C:\\Users\\DevVictor\\source\\repos\\Proyectos_asp\\Systema de ventas\\Systema de ventas\\db_SCPComputershow\\procedure_tb_Clientes.sql",
+              "RelativeToolTip": "Systema de ventas\\db_SCPComputershow\\procedure_tb_Clientes.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-24T02:48:23.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Modelo_cliente.cs",
+              "DocumentMoniker": "C:\\Users\\DevVictor\\source\\repos\\Proyectos_asp\\Systema de ventas\\Systema de ventas\\Models\\Modelo_cliente.cs",
+              "RelativeDocumentMoniker": "Systema de ventas\\Models\\Modelo_cliente.cs",
+              "ToolTip": "C:\\Users\\DevVictor\\source\\repos\\Proyectos_asp\\Systema de ventas\\Systema de ventas\\Models\\Modelo_cliente.cs",
+              "RelativeToolTip": "Systema de ventas\\Models\\Modelo_cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:32:33.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DevVictor\\source\\repos\\Proyectos_asp\\Systema de ventas\\Systema de ventas\\Program.cs",
+              "RelativeDocumentMoniker": "Systema de ventas\\Program.cs",
+              "ToolTip": "C:\\Users\\DevVictor\\source\\repos\\Proyectos_asp\\Systema de ventas\\Systema de ventas\\Program.cs",
+              "RelativeToolTip": "Systema de ventas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:21:07.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DevVictor\\source\\repos\\Proyectos_asp\\Systema de ventas\\Systema de ventas\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Systema de ventas\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\DevVictor\\source\\repos\\Proyectos_asp\\Systema de ventas\\Systema de ventas\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Systema de ventas\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:14:42.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

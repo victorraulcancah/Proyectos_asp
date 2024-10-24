@@ -1,0 +1,41 @@
+﻿@model Systema_de_ventas.Models.Modelo_cliente
+
+<div class="container">
+    <h4 class="text-center mb-4">Información del Cliente</h4>
+    <div class="card">
+        <div class="card-header bg-info text-white">
+            <h5>Detalles del Cliente</h5>
+        </div>
+        <div class="card-body">
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">
+                    <strong>Nombre:</strong> @Model.Nombre
+                </li>
+                <li class="list-group-item">
+                    <strong>Email:</strong> @Model.Email
+                </li>
+                <li class="list-group-item">
+                    <strong>Teléfono:</strong> @Model.Telefono
+                </li>
+                <li class="list-group-item">
+                    <strong>Dirección:</strong> @Model.Direccion
+                </li>
+                <li class="list-group-item">
+                    <strong>Ciudad:</strong> @Model.Ciudad
+                </li>
+                <li class="list-group-item">
+                    <strong>País:</strong> @Model.Pais
+                </li>
+                <li class="list-group-item">
+                    <strong>DNI:</strong> @Model.DNI
+                </li>
+                <li class="list-group-item">
+                    <strong>RUC:</strong> @Model.RUC
+                </li>
+                <li class="list-group-item">
+                    <strong>Distrito:</strong> @Model.Distrito
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>

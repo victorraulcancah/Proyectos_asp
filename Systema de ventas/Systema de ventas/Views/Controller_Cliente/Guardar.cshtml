@@ -1,0 +1,71 @@
+﻿@model Systema_de_ventas.Models.Modelo_cliente
+
+@{
+    ViewData["Title"] = "Guardar Cliente";
+}
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-6 offset-md-3">
+            <h2 class="text-center">@((Model.ClienteId > 0) ? "Editar Cliente" : "Registrar Nuevo Cliente")</h2>
+
+            <!-- Formulario para guardar o editar un cliente -->
+            <form asp-action="Guardar" method="post">
+                <div class="mb-3">
+                    <label for="Nombre" class="form-label">Nombre</label>
+                    <input type="text" class="form-control" id="Nombre" name="Nombre" value="@Model.Nombre" required />
+                </div>
+
+                <div class="mb-3">
+                    <label for="Email" class="form-label">Email</label>
+                    <input type="email" class="form-control" id="Email" name="Email" value="@Model.Email" required />
+                </div>
+
+                <div class="mb-3">
+                    <label for="Telefono" class="form-label">Teléfono</label>
+                    <input type="text" class="form-control" id="Telefono" name="Telefono" value="@Model.Telefono" required />
+                </div>
+
+                <div class="mb-3">
+                    <label for="Direccion" class="form-label">Dirección</label>
+                    <input type="text" class="form-control" id="Direccion" name="Direccion" value="@Model.Direccion" required />
+                </div>
+
+                <div class="mb-3">
+                    <label for="Ciudad" class="form-label">Ciudad</label>
+                    <input type="text" class="form-control" id="Ciudad" name="Ciudad" value="@Model.Ciudad" required />
+                </div>
+
+                <div class="mb-3">
+                    <label for="Pais" class="form-label">País</label>
+                    <input type="text" class="form-control" id="Pais" name="Pais" value="@Model.Pais" required />
+                </div>
+
+                <div class="mb-3">
+                    <label for="DNI" class="form-label">DNI</label>
+                    <input type="text" class="form-control" id="DNI" name="DNI" value="@Model.DNI" required />
+                </div>
+
+                <div class="mb-3">
+                    <label for="RUC" class="form-label">RUC</label>
+                    <input type="text" class="form-control" id="RUC" name="RUC" value="@Model.RUC" />
+                </div>
+
+                <div class="mb-3">
+                    <label for="Distrito" class="form-label">Distrito</label>
+                    <input type="text" class="form-control" id="Distrito" name="Distrito" value="@Model.Distrito" required />
+                </div>
+
+                <!-- Botón Guardar -->
+                <button type="submit" class="btn btn-primary">
+                    @((Model.ClienteId > 0) ? "Guardar Cambios" : "Registrar Cliente")
+                </button>
+
+                <!-- Botón Cancelar -->
+                <a href="@Url.Action("Listar", "Controller_Cliente")" class="btn btn-secondary ms-2">
+                    Cancelar
+                </a>
+            </form>
+        </div>
+    </div>
+</div>

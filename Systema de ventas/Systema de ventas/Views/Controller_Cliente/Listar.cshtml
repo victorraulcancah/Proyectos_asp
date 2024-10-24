@@ -1,0 +1,117 @@
+﻿@model List<Systema_de_ventas.Models.Modelo_cliente>
+
+@{
+    ViewData["Title"] = "Listar Clientes";
+}
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-12">
+            <h2 class="text-center">Listado de Clientes</h2>
+
+            <!-- Botón para registrar un nuevo cliente -->
+            <div class="text-end mb-3">
+                <a href="@Url.Action("Guardar", "Controller_Cliente")" class="btn btn-primary">
+                    <i class="bi bi-plus-circle"></i> Registrar Nuevo Cliente
+                </a>
+            </div>
+
+            <!-- Tabla de clientes -->
+            <table class="table table-striped table-bordered table-hover">
+                <thead class="table-dark">
+                    <tr>
+                        <th>ID</th>
+                        <th>Nombre</th>
+                        <th>Email</th>
+                        <th>Teléfono</th>
+                        <th>Dirección</th>
+                        <th>Ciudad</th>
+                        <th>País</th>
+                        <th>DNI</th>
+                        <th>RUC</th>
+                        <th>Distrito</th>
+                        <th>Acciones</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (Model != null && Model.Count > 0)
+                    {
+                        foreach (var cliente in Model)
+                        {
+                            <tr>
+                                <td>@cliente.ClienteId</td>
+                                <td>@cliente.Nombre</td>
+                                <td>@cliente.Email</td>
+                                <td>@cliente.Telefono</td>
+                                <td>@cliente.Direccion</td>
+                                <td>@cliente.Ciudad</td>
+                                <td>@cliente.Pais</td>
+                                <td>@cliente.DNI</td>
+                                <td>@cliente.RUC</td>
+                                <td>@cliente.Distrito</td>
+                                <td>
+                                    <!-- Botón para abrir el modal de detalle -->
+                                    <button class="btn btn-info btn-sm" data-toggle="modal" data-target="#detalleModal" onclick="cargarDetalles(@cliente.ClienteId)">
+                                        <i class="bi bi-eye"></i> Detalle
+                                    </button>
+
+                                    <a href="@Url.Action("Editar", "Controller_Cliente", new { ClienteId = cliente.ClienteId })" class="btn btn-warning btn-sm">
+                                        <i class="bi bi-pencil-square"></i> Editar
+                                    </a>
+                                    <a href="@Url.Action("Eliminar", "Controller_Cliente", new { ClienteId = cliente.ClienteId })" class="btn btn-danger btn-sm">
+                                        <i class="bi bi-trash"></i> Eliminar
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    }
+                    else
+                    {
+                        <tr>
+                            <td colspan="11" class="text-center">No hay clientes disponibles.</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<!-- Modal para Detalle -->
+<div class="modal fade" id="detalleModal" tabindex="-1" role="dialog" aria-labelledby="detalleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="detalleModalLabel">Detalle del Cliente</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div id="detalleContenido"></div> <!-- Aquí se cargarán los detalles del cliente -->
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script>
+    function cargarDetalles(clienteId) {
+        $.ajax({
+            url: '@Url.Action("Detalle", "Controller_Cliente")',
+            type: 'GET',
+            data: { ClienteId: clienteId },
+            success: function (data) {
+                $('#detalleContenido').html(data); // Cargar los datos en el modal
+                $('#detalleModal').modal('show'); // Mostrar el modal
+            },
+            error: function () {
+                $('#detalleContenido').html('<p>Error al cargar los detalles.</p>');
+            }
+        });
+    }
+</script>
+

@@ -1,0 +1,53 @@
+﻿@model Systema_de_ventas.Models.Modelo_cliente
+
+@{
+    ViewData["Title"] = "Eliminar Cliente";
+}
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-6 offset-md-3">
+            <h2 class="text-center text-danger">Eliminar Cliente</h2>
+
+            <p class="text-center">¿Estás seguro de que deseas eliminar el siguiente cliente?</p>
+
+            <!-- Muestra los detalles del cliente que será eliminado -->
+            <dl class="row">
+                <dt class="col-sm-4">Nombre</dt>
+                <dd class="col-sm-8">@Model.Nombre</dd>
+
+                <dt class="col-sm-4">Email</dt>
+                <dd class="col-sm-8">@Model.Email</dd>
+
+                <dt class="col-sm-4">Teléfono</dt>
+                <dd class="col-sm-8">@Model.Telefono</dd>
+
+                <dt class="col-sm-4">DNI</dt>
+                <dd class="col-sm-8">@Model.DNI</dd>
+
+                <dt class="col-sm-4">RUC</dt>
+                <dd class="col-sm-8">@Model.RUC</dd>
+
+                <dt class="col-sm-4">Distrito</dt>
+                <dd class="col-sm-8">@Model.Distrito</dd>
+            </dl>
+
+            <!-- Formulario para confirmar la eliminación del cliente -->
+            <form asp-action="Eliminar" method="post">
+                <input type="hidden" asp-for="ClienteId" />
+
+                <!-- Botón Eliminar -->
+                <div class="text-center">
+                    <button type="submit" class="btn btn-danger">
+                        <i class="bi bi-trash"></i> Eliminar
+                    </button>
+
+                    <!-- Botón Cancelar -->
+                    <a href="@Url.Action("Listar", "Controller_Cliente")" class="btn btn-secondary ms-2">
+                        Cancelar
+                    </a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
